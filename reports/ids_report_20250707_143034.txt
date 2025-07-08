@@ -1,0 +1,12 @@
+--- Rapport IDS Résumé ---
+Généré le: 2025-07-07 14:30:34
+Période couverte: Du 2025-07-06 14:30:34 au 2025-07-07 14:30:34
+Niveau de gravité minimum inclus: CRITICAL
+
+--- Résumé des événements par type ---
+Aucun événement pertinent trouvé pour cette période.
+
+--- Détails des événements pertinents ---
+Aucun événement détaillé à afficher.
+
+--- Fin du Rapport ---

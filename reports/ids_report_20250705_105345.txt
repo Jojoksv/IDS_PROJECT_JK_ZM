@@ -1,0 +1,15 @@
+--- Rapport IDS Résumé ---
+Généré le: 2025-07-05 10:53:45
+Période couverte: Du 2025-07-04 10:53:45 au 2025-07-05 10:53:45
+Niveau de gravité minimum inclus: CRITICAL
+
+--- Résumé des événements par type ---
+- NEW_UNEXPECTED_PORT: 1 occurrence(s)
+
+--- Résumé des événements par gravité ---
+- CRITICAL: 1 occurrence(s)
+
+--- Détails des événements pertinents (événements uniques) ---
+[2025-07-05 10:48:31] CRITICAL - Type: NEW_UNEXPECTED_PORT, Chemin: 127.0.0.1, Description: Nouveaux ports inattendus ouverts sur 127.0.0.1: [23, 631]
+
+--- Fin du Rapport ---

@@ -1,0 +1,7 @@
+﻿# Python dependencies for the IDS project
+
+watchdog
+
+python-nmap
+
+psutil
